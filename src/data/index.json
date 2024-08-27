@@ -1,0 +1,108 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/react.png",
+      "title": "React.js",
+      "description": "Experienced in building dynamic user interfaces with React.js."
+    },
+    {
+      "id": "2",
+      "src": "./img/nextjs-icon.png",
+      "title": "Next.js",
+      "description": "Proficient in server-side rendering and static site generation with Next.js."
+    },
+    {
+      "id": "3",
+      "src": "./img/html.png",
+      "title": "HTML",
+      "description": "Skilled in creating responsive and accessible web pages with HTML & CSS."
+    },
+    {
+      "id": "4",
+      "src": "./img/bootstrap-5-logo-icon.png",
+      "title": "Bootstrap",
+      "description": "Expertise in using Bootstrap for building responsive, mobile-first websites."
+    },
+    {
+      "id": "5",
+      "src": "./img/tailwind-css-icon.png",
+      "title": "Tailwind CSS",
+      "description": "Experience with Tailwind CSS for designing modern UIs efficiently."
+    },
+    {
+      "id": "6",
+      "src": "./img/react-native-app-icon.png",
+      "title": "React Native",
+      "description": "Building cross-platform mobile applications using React Native."
+    },
+    {
+      "id": "6",
+      "src": "./img/node.png",
+      "title": "Node.js",
+      "description": "Building cross-platform mobile applications using React Native."
+    },
+    {
+      "id": "7",
+      "src": "./img/mysql.png.png",
+      "title": "MySQL",
+      "description": "Proficient in relational database management with MySQL."
+    },
+    {
+      "id": "8",
+      "src": "./img/mongodb.png",
+      "title": "MongoDB",
+      "description": "Experienced in NoSQL database management with MongoDB."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Ahuse",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique."
+   
+      
+    },
+    {
+      "id": "2",
+      "src": "./img/aft.png",
+      "title": "AFT",
+      "description": "AFT is a mobile app dedicated to empowering farmers with the tools they need to efficiently manage their livestock farms."
+   
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Easy Rentn",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique.",
+      "link": ""
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique.",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique.",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique.",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
